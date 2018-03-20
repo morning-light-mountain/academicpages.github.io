@@ -7,5 +7,4 @@ venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (ICR
 paperurl: 'http://morning-light-mountain.github.io/files/ICRA18_Fire_ant.pdf'
 ---
 
-[Download paper here](http://morning-light-mountain.github.io/files/ICRA18_Fire_ant.pdf)
 
