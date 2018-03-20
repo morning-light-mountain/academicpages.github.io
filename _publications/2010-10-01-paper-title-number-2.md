@@ -1,5 +1,5 @@
 ---
-title: "FireAnt: A Modular Robot with Full-Body Continuous Docks"
+title: "FireAnt: A Modular Robot with Full-Body Continuous Docks" 'http://morning-light-mountain.github.io/files/ICRA18_Fire_ant.pdf'
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2018-5-01
